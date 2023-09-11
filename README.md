@@ -1,1 +1,1 @@
-# python-challenge
+I worked on this python challenge with my groupmates Brian Keffer and Janka Glenn. I collaborated especially with Janka. I also received troubleshooting help from AskBCS, but they didn't provide me with any lines of code.
